@@ -23,3 +23,5 @@ these task were completed as part of the codealpha internship
 ## connect with me
 Github:
 [mohdsufiyan786](https://github.com/mohdsufiyan786)
+
+https://github.com/mohdsufiyan786/codealpha_tasks
